@@ -1,0 +1,111 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1{
+  margin: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  margin-bottom: 0;
+  color:#F56D91;
+}
+h2{
+  font-family: 'Merriweather', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color:#F56D91;
+}
+h3{
+  font-size: 2rem;
+  font-weight: normal;
+  color:#F56D91
+}
+.top-container{
+  background-color: #FFEEEE;
+  position: relative;
+  padding-top: 200px;
+}
+.top-cloud{
+ position: absolute;
+ top:150px;
+ right:250px;
+}
+.bottom-cloud{
+  position: absolute;
+  left:300px;
+}
+a{
+    color:#F56D91;
+    text-decoration: none;
+    margin:5px;
+    padding:10px;
+}
+.skills{
+  width:50%;
+  margin:100px auto 100px auto;
+
+}
+.code-img{
+  width: 35%;
+  float:left;
+  margin-right: 50px;
+}
+.guitar-image{
+  width:35%;
+  float: right;
+  margin-left: 50px;
+}
+
+.skill-row{
+  text-align: left;
+  width:100%;
+  margin: 120px 100px;
+  line-height: 2;
+}
+p{
+  font-size: 1.2rem;
+}
+.bottom-container{
+
+}
+
+.btn {
+  background: #F56D91;
+  background-image: -webkit-linear-gradient(top, #F56D91, #F56D91);
+  background-image: -moz-linear-gradient(top, #F56D91, #F56D91);
+  background-image: -ms-linear-gradient(top, #F56D91, #F56D91);
+  background-image: -o-linear-gradient(top, #F56D91, #F56D91);
+  background-image: linear-gradient(to bottom, #F56D91, #F56D91);
+  -webkit-border-radius: 12;
+  -moz-border-radius: 12;
+  border-radius: 12px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #eb3465;
+  background-image: -webkit-linear-gradient(top, #eb3465, #eb3465);
+  background-image: -moz-linear-gradient(top, #eb3465, #eb3465);
+  background-image: -ms-linear-gradient(top, #eb3465, #eb3465);
+  background-image: -o-linear-gradient(top, #eb3465, #eb3465);
+  background-image: linear-gradient(to bottom, #eb3465, #eb3465);
+  text-decoration: none;
+}
+.bottom-container{
+  padding:50px;
+  margin:30px;
+  background-color: #FFEEEE;
+  margin-top:53px;
+  margin-bottom: 0px;
+}
+.bottom-para{
+  margin:0;
+  margin-top:30px;
+  color:grey;
+  font-size:0.75rem;
+}
