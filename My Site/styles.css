@@ -24,11 +24,11 @@ h3{
 .top-container{
   background-color: #FFEEEE;
   position: relative;
-  padding-top: 200px;
+  padding-top: 75px;
 }
 .top-cloud{
  position: absolute;
- top:150px;
+ top:50px;
  right:250px;
 }
 .bottom-cloud{
@@ -43,18 +43,24 @@ a{
 }
 .skills{
   width:50%;
-  margin:100px auto 100px auto;
-
+  margin:50px auto 20px auto;
 }
 .code-img{
-  width: 35%;
+  width: 30%;
   float:left;
   margin-right: 50px;
+ padding-bottom: 70px;
+ padding-top:70px;
 }
 .guitar-image{
   width:35%;
   float: right;
   margin-left: 50px;
+  padding-bottom: 70px;
+  padding-top:70px;
+}
+.guitar-para{
+  text-align: left;
 }
 
 .skill-row{
@@ -64,10 +70,7 @@ a{
   line-height: 2;
 }
 p{
-  font-size: 1.2rem;
-}
-.bottom-container{
-
+  font-size: 1rem;
 }
 
 .btn {
